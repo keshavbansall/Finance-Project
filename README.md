@@ -11,3 +11,6 @@ Matrix for various stock categories .
 • The fourth project is based on developing a trading strategy on EMA with efficient dynamic Risk Management .
 
 • The fifth project is based on trading ETF’s based on their correlation with S&P500 index .
+
+• The sixth project is based on implementing Volatility Smile in python .
+
